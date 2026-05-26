@@ -59,7 +59,7 @@ To ensure accurate analysis, several cleaning steps were performed.
 - Filled missing industry data using existing company records
 - Removed rows with insufficient information
 
-####🔹 Removing Unnecessary Columns
+#### 🔹 Removing Unnecessary Columns
 - Dropped temporary/helper columns after cleaning was completed
 
 ---
